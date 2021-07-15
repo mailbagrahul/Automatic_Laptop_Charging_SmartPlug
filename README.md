@@ -1,5 +1,5 @@
 # Automatic Laptop Charging thru TP-Link SmartPlug
-This program directly connects and controls your TP-Link power plug (smart home power switch) by checking your battery status. If the battery percentage is less tham 20, it turns on the power and when reaches 100, it turns off immediately. For more convenient and to check the status every 5 or 10 minutes, trigger this program thru windows task scheduler.
+This program directly connects and controls your TP-Link power plug (smart home power switch) by checking your battery status. If the battery percentage is less than 20, it turns on the power and when reaches 100, it turns off immediately. For more convenient and to check the status every 5 or 10 minutes, trigger this program thru windows task scheduler.
 
 ## Description
 
